@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi My name is Pedro Contreras, welcome to my repository 👋
 
 <!--
 **peterCocho/peterCocho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
